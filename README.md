@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React Native<br>🌱 I’m currently learning ASP.NET
+🔭 I’m currently working on React and Dotnet<br>
 
 
 # 💻 Tech Stack:
